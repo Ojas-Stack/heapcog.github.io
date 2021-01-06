@@ -2,7 +2,7 @@
 title: "about"
 layout: splash
 permalink: /about/
-date: 2020-01-04
+date: 2021-01-04
 read_time: false
 header:
   #overlay_color: "#000"
